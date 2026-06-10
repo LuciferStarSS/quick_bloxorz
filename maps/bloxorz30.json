@@ -29,7 +29,7 @@
          "draworder":"topdown",
          "id":5,
          "name":"normal",
-         "objects":[
+         "objects":[ 
                 {
                  "height":50,
                  "id":3609,
@@ -51,7 +51,7 @@
                  "width":50,
                  "x":0,
                  "y":50
-                }, 
+                },                 
                 {
                  "height":50,
                  "id":3611,
@@ -509,7 +509,7 @@
                  "properties":
                     {
                      "id":"bridgeB",
-                     "startActivated":true
+                     "startActivated":false
                     },
                  "propertytypes":
                     {
@@ -520,8 +520,8 @@
                  "type":"",
                  "visible":true,
                  "width":50,
-                 "x":550,
-                 "y":200
+                 "x":600,
+                 "y":150
                 }, 
                 {
                  "height":50,
@@ -944,6 +944,17 @@
                  "visible":true,
                  "width":50,
                  "x":600,
+                 "y":150
+                }, 
+                {
+                 "height":50,
+                 "id":3715,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":50,
+                 "x":650,
                  "y":150
                 }, 
                 {
@@ -1460,7 +1471,7 @@
                  "type":"",
                  "visible":true,
                  "width":50,
-                 "x":500,
+                 "x":450,
                  "y":-100
                 }, 
                 {
@@ -1471,7 +1482,7 @@
                  "type":"",
                  "visible":true,
                  "width":50,
-                 "x":500,
+                 "x":450,
                  "y":-150
                 }, 
                 {
@@ -1771,6 +1782,28 @@
                  "width":50,
                  "x":50,
                  "y":50
+                }, 
+                {
+                 "height":50,
+                 "id":3600,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":50,
+                 "x":500,
+                 "y":-100
+                }, 
+                {
+                 "height":50,
+                 "id":3601,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":50,
+                 "x":500,
+                 "y":-150
                 }, 
                 {
                  "height":50,
